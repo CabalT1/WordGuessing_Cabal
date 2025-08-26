@@ -1,0 +1,16 @@
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\bin\Debug\net8.0-windows\WordGuessing.exe
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\bin\Debug\net8.0-windows\WordGuessing.deps.json
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\bin\Debug\net8.0-windows\WordGuessing.runtimeconfig.json
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\bin\Debug\net8.0-windows\WordGuessing.dll
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\bin\Debug\net8.0-windows\WordGuessing.pdb
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.Form1.resources
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.csproj.GenerateResource.cache
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.AssemblyInfoInputs.cache
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.AssemblyInfo.cs
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.csproj.CoreCompileInputs.cache
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.dll
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\refint\WordGuessing.dll
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.pdb
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\WordGuessing.genruntimeconfig.cache
+C:\Users\ALBERT\source\repos\WordGuessing\WordGuessing\obj\Debug\net8.0-windows\ref\WordGuessing.dll
